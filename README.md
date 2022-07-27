@@ -36,4 +36,4 @@ I first built the HTML elements such as the div's and then formatted all of the 
 
 - Website - [Nathan Rhodes](https://github.com/Meobot)
 - Frontend Mentor - [@Meobot](https://www.frontendmentor.io/profile/Meobot)
-- Twitter - [@yourusername](https://www.twitter.com/Nrhodes723)
+- Twitter - [@Nrhodes723](https://www.twitter.com/Nrhodes723)
